@@ -1,4 +1,4 @@
-## 🌟 Hi there, I'm Sushmitha! 👋  
+## Hi there, I'm Sushmitha! 👋  
 
 ### 🚀 About Me:
 - 🔭 Currently working on Web Development and Computer Vision (CV) Projects.  
@@ -16,8 +16,9 @@
 
 ### 🔗 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sushmitha-v-g)  
-📩 **Email:** [sensusmitha944@gmail.com](mailto:sensusmitha944@gmail.com)  
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:sensusmitha944@gmail.com)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram)](https://www.instagram.com/sushmi.sen)  
+
 
 
 
