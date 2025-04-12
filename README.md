@@ -3,7 +3,7 @@
 ### 🚀 About Me:
 - 🔭 Currently working on Web Development and Computer Vision (CV) Projects.  
 - 🌱 Learning Java, SQL, React 
-- 🎯 Developing Mobile App for Women safety : **EmpowerHer** (Cyber Hackathon)
+- 🎯 Developing Mobile App for Women safety : **EmpowerHer** 
 
 
 ### 🛠️ Tech Stack:
